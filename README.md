@@ -38,6 +38,4 @@ cd Integrate-Movies-API
 npm install
 npm run dev
 
----
 
-Would you like me to make a **shorter version** (for quick README display) or a **portfolio-optimized version** with badges and visuals (like shields.io badges for tech stack)?
