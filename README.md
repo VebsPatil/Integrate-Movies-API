@@ -31,7 +31,7 @@ This project demonstrates API integration, component-based UI design, and effici
 
 ## ⚙️ Getting Started  
 
-### 1️⃣ Clone the Repository  
+### Clone the Repository  
 ```bash
 git clone https://github.com/VebsPatil/Integrate-Movies-API.git
 cd Integrate-Movies-API
